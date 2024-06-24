@@ -2,9 +2,9 @@
 # Mike Rodden
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-rodden/)](https://www.linkedin.com/in/mike-rodden/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mike.rodden@esmt.berlin)](mailto:mike.rodden@esmt.berlin)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mikerodden5@gmail.com)](mailto:mikerodden5@gmail.com)
 
-Welcome to my GitHub profile! I'm Mike, a Product Manager and hobby enthusiast with a deep interest in data science, machine learning, and software development. 
+Welcome to my GitHub profile! I'm Mike, a Product Manager and data enthusiast with a deep interest in machine learning and software development. 
 
 ## 🚀 Recent Projects
 

@@ -1,6 +1,6 @@
 
 
-<p style="font-size:20px;">
+<p style="font-size:40px;">
 Welcome to my GitHub profile! I'm Mike, a Product Manager and data enthusiast with a deep interest in machine learning and data science.
 </p>
 

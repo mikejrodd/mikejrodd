@@ -1,6 +1,8 @@
 
 
-## Welcome to my GitHub profile! I'm Mike, a Product Manager and data enthusiast with a deep interest in machine learning and data science.
+## Welcome to my GitHub profile! 
+
+I'm Mike, a Product Manager and data enthusiast with a deep interest in machine learning and data science.
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mike-rodden/)](https://www.linkedin.com/in/mike-rodden/)

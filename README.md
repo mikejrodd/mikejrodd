@@ -11,7 +11,7 @@ I'm Mike, a Product Manager and data enthusiast with a deep interest in machine 
 ## 🛠️ Skills
 
 - **Product Management:** Jira, Agile, Scrum, Figma, Salesforce
-- **Programming Languages:** Python, SQL, TypeScript
+- **Programming Languages:** Python, SQL, JavaScript, React
 - **Data Analytics and Visualization:** Tableau, Google Analytics 4, Seaborn
 - **Machine Learning Frameworks:** TensorFlow, Keras, Scikit-learn, Hugging Face Transformers
 - **Web Development:** Streamlit, Flask
